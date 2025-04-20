@@ -1,0 +1,9 @@
+body {
+     /* background-image: url("https://media.istockphoto.com/id/1221032250/photo/asian-scientist-or-doctors-use-microscopes-to-test-for-the-coronavirus-or-a-new-flu-virus-to.jpg?s=612x612&w=0&k=20&c=nqmrPXZDDKH1o2WyNlmJK7oyd8zvZqgHnWkXg2HS96k=");  */
+        height: 100vh;
+        /* width:100vw; */
+    background-size: cover;
+    overflow-x: hidden;
+  
+}
+
